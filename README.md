@@ -1,3 +1,3 @@
 # hello-world
-first try
-intersted in a webcalender on linux
+
+I'm interested in implenenting a server based webcalender on linux (Ubuntu and Debian).
